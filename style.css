@@ -1,0 +1,33 @@
+.container {
+    margin-left: 78px;
+    margin-right: 78px;
+    background-color: #EEEEEE;
+    height: auto;
+    padding-bottom: 2px;
+}
+.card1 {
+    margin-left: 78px;
+    background-color: #7ee5da;
+    padding: 20px;
+    width: 30%;
+    float: left;
+    height: 65px;
+}
+.card2 {
+    background-color: #70CCC2;
+    float: left;
+    width: 16%;
+    font-size: small;
+    height: 99px;
+    padding: 3px;
+}
+.card3 {
+    background-color: #62B3AA;
+    float: left;
+    width: 597px;
+    height: 105px;
+    font-size: -1;
+}
+.copyright {
+    font-size: small;
+}
